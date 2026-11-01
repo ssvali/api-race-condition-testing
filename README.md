@@ -133,8 +133,8 @@ mvn -version
 ### Clone the repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_DIRECTORY>
+git clone https://github.com/ssvali/api-race-condition-testing.git
+cd https://github.com/ssvali/api-race-condition-testing.git
 ```
 
 Replace the placeholders with your GitHub repository URL and directory name.
@@ -191,7 +191,7 @@ It is not intended to be a production-ready e-commerce or inventory management s
 
 **Race Condition Testing in APIs: What Happens When Two Requests Arrive at the Same Time?**
 
-[Add the Medium article URL here.]
+https://medium.com/@sha.jamdar/race-condition-testing-in-apis-what-happens-when-two-requests-arrive-at-the-same-time-fab22d49fd05
 
 Part of the series: **API Testing — Beyond the Happy Path**
 
